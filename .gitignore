@@ -1,0 +1,188 @@
+# General
+.DS_Store
+.idea/
+*.iml
+*.ipr
+*.iws
+*.swp
+*.swo
+*.swp
+*.swo
+*.bak
+*.orig
+*.rej
+*.retry
+*.swn
+*.swo
+*~
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+temp/
+*.log
+*.pyc
+db.sqlite3
+*.pid
+*.pid.lock
+*.pyc
+*.cache
+*.egg-info/
+*.log
+*.sqlite
+
+# Flutter/Dart/Pub related
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.generated_plugin_registrant.dart
+**/build/
+**/ios/Flutter/.last_build_id
+*.lock
+*.moor
+*.pub-cache/
+*.seed
+.pub/
+packages
+pubspec.lock
+flutter_*.png
+*.part
+.generated/
+
+# OS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+ehthumbs.db
+Thumbs.db
+
+# Android/IntelliJ
+.gradle/
+/build/
+/app/*.apk
+/app/*.ap_
+/app/build/
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/.idea/modules.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/captures/
+/captures/
+*.iml
+.externalNativeBuild/
+
+# iOS/Xcode
+ios/.generated/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Runner.xcodeproj/project.xcworkspace/
+ios/Runner.xcodeproj/xcuserdata/
+*.xcuserstate
+*.xcworkspace
+*.xccheckout
+*.xcodeproj
+*.xcscmblueprint
+*.moved-aside
+*.hmap
+*.ipa
+DerivedData/
+*.pbxuser
+!default.pbxuser
+*.perspectivev3
+!default.perspectivev3
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+
+# Web
+/web/favicon.ico
+
+/linuc/*.
+# VS Code
+.vscode/
+
+# Misc
+/jks/
+/key.properties
+*.keystore
+*.jks
+
+# Firebase
+/google-services.json
+/GoogleService-Info.plist
+
+# Fastlane
+**/fastlane/report.xml
+**/fastlane/Preview.html
+**/fastlane/screenshots
+**/fastlane/test_output
+**/fastlane/readme.md
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+/.metadata
+/analysis_options.yaml
+/linux/.gitignore
+/linux/
+/macos/
+/test/
+/web/
+/windows/
+/android/
+/ios/RunnerTests/
+/ios/.gitignore
+/ios/Podfile
+/ios/Runner/
+/ios/Flutter/
+/ios/
